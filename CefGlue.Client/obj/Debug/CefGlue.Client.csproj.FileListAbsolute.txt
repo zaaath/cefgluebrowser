@@ -1,0 +1,13 @@
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluebrowser\CefGlue.Client\bin\Debug\Xilium.CefGlue.Client.exe.config
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluebrowser\CefGlue.Client\bin\Debug\Xilium.CefGlue.Client.exe
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluebrowser\CefGlue.Client\bin\Debug\Xilium.CefGlue.Client.pdb
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluebrowser\CefGlue.Client\bin\Debug\Xilium.CefGlue.dll
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluebrowser\CefGlue.Client\bin\Debug\Xilium.CefGlue.WindowsForms.dll
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluebrowser\CefGlue.Client\bin\Debug\Xilium.CefGlue.WindowsForms.pdb
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluebrowser\CefGlue.Client\bin\Debug\Xilium.CefGlue.pdb
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluebrowser\CefGlue.Client\bin\Debug\Xilium.CefGlue.xml
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluebrowser\CefGlue.Client\obj\Debug\CefGlue.Client.csprojResolveAssemblyReference.cache
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluebrowser\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.MainForm.resources
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluebrowser\CefGlue.Client\obj\Debug\CefGlue.Client.csproj.GenerateResource.Cache
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluebrowser\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.exe
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluebrowser\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.pdb
